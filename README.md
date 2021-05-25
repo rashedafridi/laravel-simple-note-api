@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## note crud api
+# note crud api
 
-# From this project I learned
+### From this project I learned
 - how to use RestApi
 - how to use crud operation
 - how to use Validator;
