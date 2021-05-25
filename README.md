@@ -14,15 +14,16 @@
 - how to use crud operation
 - how to use Validator;
 - how to use Route::resource
+- backend restAPI
 
 ## Setup
 
-1 composer install
-1 npm install
-1 cp .env.example .env
-1 add your database to .env
-1 php artisan key:generate
-1 php artisan migrate
+1. composer install
+1. npm install
+1. cp .env.example .env
+1. add your database to .env
+1. php artisan key:generate
+1. php artisan migrate
 
 ## demo
 
