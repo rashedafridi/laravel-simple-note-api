@@ -26,13 +26,13 @@
 
 ## demo
 
-![get](demo/get.JPG?raw=true "Title")
+![get](demo/get.JPG?raw=true "get")
 
-![add](demo/post.JPG?raw=true "Title")
+![add](demo/post.JPG?raw=true "post")
 
-![get 1](demo/getById.JPG?raw=true "Title")
+![get 1](demo/getById.JPG?raw=true "getById")
 
-![update](demo/updateByid.JPG?raw=true "Title")
+![update](demo/updateByid.JPG?raw=true "updateByid")
 
-![delete](demo/deleteById.JPG?raw=true "Title")
+![delete](demo/deleteById.JPG?raw=true "deleteById")
 
